@@ -2,7 +2,7 @@
   "name": "react",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://developerAnjuUI.github.io/React_Movie_App",
+  "homepage": "https://developeranjuui.github.io/React_Movie_App/",
   "dependencies": {
     "react": "^18.1.0",
     "react-dom": "^18.1.0"
